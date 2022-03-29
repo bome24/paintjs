@@ -8,7 +8,6 @@ body {
     padding: 50px 0px;
 }
 
-
 .canvas {
     width: 700px;
     height: 700px;
@@ -47,6 +46,7 @@ body {
 .controls_btns button:active {
     transform: scale(0.98);
 }
+
 
 .controls .controls_colors {
     display: flex;
